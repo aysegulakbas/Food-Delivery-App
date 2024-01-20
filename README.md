@@ -8,9 +8,14 @@ a<img width="282" alt="Ekran Resmi 2024-01-20 15 46 56" src="https://github.com/
 <h2> Main Page </h2>
 <li><b><i>TableViewController</i></b></li>
 <li><b><i>TableViewCell</i></b></li>
-<li><b><i>NavigationController</i></b></li>
 <li><b><i>AutoLayout</i></b></li>
-<li><b><i>CepteSok Some Parts</i></b></li>
+<li><b><i>VIPER while designing the application
+architecture was used.</i></b></li>
+<li><b><i>A total of 14 food "cells"
+label in cells called
+Food name and price using
+with picture in the form
+has been created.</i></b></li>
 
 
 
