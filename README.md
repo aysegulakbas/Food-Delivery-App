@@ -5,7 +5,7 @@
 
 <h2> Main Page </h2>
 
-VIPER while designing the application architecture was used.
+VIPER while designing the application architecture was used. <br>
 A total of 14 food "cells" label in cells called. Food name and price using with picture in the form has been created.
 <li><b><i>TableViewController</i></b></li>
 <li><b><i>TableViewCell</i></b></li>
